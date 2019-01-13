@@ -1,0 +1,9 @@
+.counter-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.counter-container > * {
+    margin: 5px;
+}
